@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Computer Engineering Student | Networking & IT<br>🎓 University of Dar es Salaam<br><br>🔧 Currently working on integrating university systems to improve connectivity, data flow, and user experience across platforms<br><br>🧠 Tech enthusiast with a systems-thinking mindset<br>🌐 Passionate about networking, infrastructure, and digital communication<br>🎨 Creative graphics designer with an eye for clean, impactful visuals<br>💻 Frontend developer focused on building intuitive and responsive user interfaces<br><br>⚡ Bridging technology and design to create efficient, user-friendly solutions
+🚀 Computer Engineering Student | Networking,programming & IT<br>🎓 University of Dar es Salaam<br><br>🔧 Currently working on integrating university systems to improve connectivity, data flow, and user experience across platforms<br><br>🧠 Tech enthusiast with a systems-thinking mindset<br>🌐 Passionate about networking, infrastructure, and digital communication<br>🎨 Creative graphics designer with an eye for clean, impactful visuals<br>💻 Frontend developer focused on building intuitive and responsive user interfaces<br><br>⚡ Bridging technology and design to create efficient, user-friendly solutions
 
 
 ## 🌐 Socials:
